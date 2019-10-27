@@ -1,0 +1,8 @@
+numpy
+pandas
+yfinance
+scipy
+scikit-learn
+pandas_datareader
+fix_yahoo_finance
+yfinance
